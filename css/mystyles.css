@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+
+img{
+    margin-left: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    
+}
+
+a:hover{
+    color: brown;
+}
